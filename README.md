@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: []()
-- Live Site URL: []()
+- Live Site URL: [https://whoamihealay.github.io/advice-generator-app/](https://whoamihealay.github.io/advice-generator-app/https://whoamihealay.github.io/advice-generator-app/)
 
 ## Built with
 
@@ -38,6 +38,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [whoamiandrew](https://whoamiandrew.com/)
+- Frontend Mentor - [@whoamihealay](https://www.frontendmentor.io/profile/whoamihealay)
+- Linkedin - [@andrewsouthern01](https://www.linkedin.com/in/andrewsouthern01/)
