@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: [https://whoamihealay.github.io/advice-generator-app/](https://whoamihealay.github.io/advice-generator-app/https://whoamihealay.github.io/advice-generator-app/)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/es6-javascript-with-fetch-and-arrow-functions-BJm8hQczc)
+- Live Site URL: [https://whoamihealay.github.io/advice-generator-app/](https://whoamihealay.github.io/advice-generator-app/)
 
 ## Built with
 
