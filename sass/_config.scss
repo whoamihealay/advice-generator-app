@@ -1,0 +1,32 @@
+/* ***** */
+/* VARS */
+/* ***** */
+
+:root {
+  /* #### COLORS #### */
+  /* General */
+  --clr-body-color: hsl(193, 38%, 86%); /* Main text color */
+  --clr-body-bg: hsl(217, 19%, 17%); /* Main background */
+  /* Primary */
+  --clr-light-cyan: hsl(193, 38%, 86%);
+  --clr-neon-green: hsl(150, 100%, 66%);
+
+  /* Neutral */
+  --clr-grayish-blue: hsl(217, 19%, 38%);
+  --clr-dark-grayish-blue: hsl(217, 19%, 24%);
+
+  /* Typography */
+  --ff-sans-normal: "Manrope", sans-serif;
+  --fs-900: 3rem;
+  --fs-800: 2.25rem;
+  --fs-700: 1.75rem;
+  --fs-600: 1.5rem;
+  --fs-500: 1.225rem;
+  --fs-400: 1.125rem;
+  --fs-300: 0.875rem;
+  --fs-200: 0.5rem;
+  /* utilities */
+  --border-rad: 1rem;
+  --line-height: 1.5;
+  --fw: 800;
+}

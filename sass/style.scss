@@ -1,0 +1,61 @@
+@import "config";
+@import "general";
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-main {
+  padding: 1em;
+  padding-bottom: 3rem;
+  border-radius: 1rem;
+  background-color: var(--clr-dark-grayish-blue);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  max-width: 30em;
+  position: relative;
+  .card-title {
+    color: var(--clr-neon-green);
+    text-align: center;
+    padding: 0.5em;
+  }
+  .card-quote {
+    padding: 0 0.5em;
+    font-size: var(--fs-500);
+    @media (min-width: 460px) {
+      font-size: var(--fs-700);
+    }
+  }
+  .divider-img {
+    background-image: url("./../images/pattern-divider-mobile.svg");
+    background-repeat: no-repeat;
+    min-height: 1rem;
+    width: 100%;
+    background-position: center;
+    @media (min-width: 460px) {
+      background-image: url("./../images/pattern-divider-desktop.svg");
+    }
+  }
+  .btn-absolute {
+    position: absolute;
+    bottom: -1.5rem;
+    .btn {
+      background-color: var(--clr-neon-green);
+      padding: 1rem;
+      border-radius: 50%;
+      cursor: pointer;
+      &:hover {
+        box-shadow: 0 0 1rem 0.2rem var(--clr-neon-green);
+        opacity: 0.8;
+      }
+      &:active {
+        transform: scale(1.1);
+      }
+    }
+  }
+}
